@@ -1,3 +1,2 @@
 streamlit
-pytubefix
-pytube
+pytubefix==9.2.2
